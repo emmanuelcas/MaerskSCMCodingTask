@@ -1,0 +1,13 @@
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\bin\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.exe
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\bin\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.deps.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\bin\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.runtimeconfig.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\bin\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.runtimeconfig.dev.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\bin\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.dll
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\bin\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.pdb
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\obj\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.csproj.AssemblyReference.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\obj\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.AssemblyInfoInputs.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\obj\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.AssemblyInfo.cs
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\obj\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\obj\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.dll
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\obj\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.pdb
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem2-BusinessRulesEngine\obj\Debug\netcoreapp3.1\Problem2-BusinessRulesEngine.genruntimeconfig.cache
