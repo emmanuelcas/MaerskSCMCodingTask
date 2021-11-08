@@ -1,0 +1,13 @@
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\bin\Debug\netcoreapp3.1\Problem1-PromotionEngine.exe
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\bin\Debug\netcoreapp3.1\Problem1-PromotionEngine.deps.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\bin\Debug\netcoreapp3.1\Problem1-PromotionEngine.runtimeconfig.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\bin\Debug\netcoreapp3.1\Problem1-PromotionEngine.runtimeconfig.dev.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\bin\Debug\netcoreapp3.1\Problem1-PromotionEngine.dll
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\bin\Debug\netcoreapp3.1\Problem1-PromotionEngine.pdb
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\obj\Debug\netcoreapp3.1\Problem1-PromotionEngine.csproj.AssemblyReference.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\obj\Debug\netcoreapp3.1\Problem1-PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\obj\Debug\netcoreapp3.1\Problem1-PromotionEngine.AssemblyInfo.cs
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\obj\Debug\netcoreapp3.1\Problem1-PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\obj\Debug\netcoreapp3.1\Problem1-PromotionEngine.dll
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\obj\Debug\netcoreapp3.1\Problem1-PromotionEngine.pdb
+C:\Users\EmmanuelCastillodeCa\Desktop\Assesments\SCMCodingTask\Problem1-PromotionEngine\obj\Debug\netcoreapp3.1\Problem1-PromotionEngine.genruntimeconfig.cache
