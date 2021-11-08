@@ -4,13 +4,14 @@ using System.Text;
 
 namespace Problem2_BusinessRulesEngine.Model
 {
-    class ActivateMembership : IBusinessRules
+    class BookProcess : IBusinessRules
     {
 
         public void ApplyBusinessRules()
         {
-            //•	Activates that membership. 
-            //•	E - mail the owner and inform them of the activation / upgrade.
+            //•	Create a duplicate packing slip for the royalty department.
+            //•	Generates a commission payment to the agent.
+
         }
 
     }

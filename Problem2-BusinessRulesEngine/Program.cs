@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Problem2_BusinessRulesEngine.Services;
+using System;
 
 namespace Problem2_BusinessRulesEngine
 {
@@ -20,7 +21,10 @@ namespace Problem2_BusinessRulesEngine
             //•	If the payment is an upgrade to a membership, apply the upgrade.
 
 
-            Console.WriteLine("Hello World!");
+            var OrdersHandler = new OrdersHandler("Book");
+            OrdersHandler.ApplyBusinessRules();
+
+
         }
     }
 }

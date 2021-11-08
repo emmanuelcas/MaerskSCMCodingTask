@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Problem2_BusinessRulesEngine.Model
 {
-    class SlipShipping : IBusinessRules
+    class PhysicalProductProcess : IBusinessRules
     {
 
         public void ApplyBusinessRules()

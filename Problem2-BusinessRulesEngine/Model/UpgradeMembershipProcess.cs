@@ -4,13 +4,13 @@ using System.Text;
 
 namespace Problem2_BusinessRulesEngine.Model
 {
-    class DoubleSlipRD : IBusinessRules
+    class UpgradeMembershipProcess : IBusinessRules
     {
 
         public void ApplyBusinessRules()
         {
-            //•	Create a duplicate packing slip for the royalty department.
-            //•	Generates a commission payment to the agent.
+            //•	Applies the upgrade.
+            //•	E - mail the owner and inform them of the activation / upgrade.
 
         }
 

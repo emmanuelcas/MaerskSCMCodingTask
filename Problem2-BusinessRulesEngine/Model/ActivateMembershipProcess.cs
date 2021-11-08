@@ -4,14 +4,13 @@ using System.Text;
 
 namespace Problem2_BusinessRulesEngine.Model
 {
-    class UpgradeMembership : IBusinessRules
+    class ActivateMembershipProcess : IBusinessRules
     {
 
         public void ApplyBusinessRules()
         {
-            //•	Applies the upgrade.
+            //•	Activates that membership. 
             //•	E - mail the owner and inform them of the activation / upgrade.
-
         }
 
     }

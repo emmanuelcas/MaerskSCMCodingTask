@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Problem2_BusinessRulesEngine.Model
 {
-    class AddFirstAidVideo : IBusinessRules
+    class LearningToSkiProcess : IBusinessRules
     {
 
         public void ApplyBusinessRules()
