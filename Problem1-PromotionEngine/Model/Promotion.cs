@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Problem1_PromotionEngine.Model
 {
-    class Promotion
+    public class Promotion
     {
         public Promotion(List<ProductRule> productsRequeried, double? discount, double? price)
         {
