@@ -1,0 +1,36 @@
+ --------------------------------------- PROBLEM 1 ---------------------------------------
+
+This excercise cuould fit into a pattern like the strategy pattern
+However, since the promotion engine should be modular to allow for 
+more promotion types to be added at a later date (e.g. a future promotion
+could be x% of a SKU unit price), I dicided on a less theorical and more
+real life approach, where I would have a list of the promotions that is going
+to be updated from an API or a DB each 30 min with the last promotions
+The promotion manager then in GetTotal method checks if there are any suiitable
+promotions to apply according to items in the cart, applies them and calculates
+total. I also added a field for a discount that is going to be taken into account
+only if the fixed price is empty
+I chose this approch because a more theorical strategy approach in real life would
+mean re deploying, this is an approach that enables sales dep to create promos
+and have it already working in the system in 30 minutes or less
+
+I know that some conditions can break the code in the unit test (negative numbers, bigger than int range, etc)
+This scenearios were considered but the code doesn't contemplate them because of the time
+
+
+
+
+ --------------------------------------- PROBLEM 2 ---------------------------------------
+
+For this porblem I thought a classic strategy pattern would be a good fit.
+So I built and interface and the classes implementing them, and then
+in the OrdersHandler I'm going to be putting the code that implement the class
+according to the proper business rule.
+The only clarification I want to make is that these 2 actions
+•	If the payment is for a membership or upgrade, e - mail the owner and inform them of the activation / upgrade.
+•	If the payment is for a physical product or a book, generate a commission payment to the agent.
+Are going to be combined with this 4
+•	If the payment is for a physical product, generate a packing slip for shipping.
+•	If the payment is for a book, create a duplicate packing slip for the royalty department.
+•	If the payment is for a membership, activate that membership.
+•	If the payment is an upgrade to a membership, apply the upgrade.

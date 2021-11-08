@@ -23,6 +23,12 @@ namespace Problem1_PromotionEngine
             //I chose this approch because a more theorical strategy approach in real life would
             //mean re deploying, this is an approach that enables sales dep to create promos
             //and have it already working in the system in 30 minutes or less
+            //I know that some conditions can break the code in the unit test (negative numbers, bigger
+            //than int range, etc).This scenearios were considered but the code doesn't contemplate
+            //them because of the time
+
+
+
 
             //Here I leave this to display in the console
 
