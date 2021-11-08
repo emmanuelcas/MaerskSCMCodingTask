@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Problem2_BusinessRulesEngine.Model
 {
-    class IBusinessRules
+    interface IBusinessRules
     {
+        public void ApplyBusinessRules();
     }
 }
