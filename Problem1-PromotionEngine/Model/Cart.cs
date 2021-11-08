@@ -7,21 +7,26 @@ namespace Problem1_PromotionEngine.Model
 {
     class Cart
     {
-        public Cart(List<ItemForCart> ItemsList, double Subtotal)
+        public Cart(List<ItemForCart> ItemsList)
         {
             this.ItemsList = ItemsList;
-            this.Subtotal = Subtotal;
         }
 
         public List<ItemForCart> ItemsList { get; set; }
 
-        public double Subtotal { get; set; }
-
-        //public double Total { get; set; }
-
         public double GetTotal()
         {
             return PromotionsManager.GetTotal(ItemsList);
+        }
+
+        public double GetSubTotal()
+        {
+            double subtotal = 0;
+            foreach (ItemForCart item in ItemsList)
+            {
+                subtotal = subtotal + (item.Cuantity * item.Price);
+            }
+            return subtotal;
         }
     }
 }
