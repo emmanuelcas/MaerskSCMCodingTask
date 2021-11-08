@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Problem1_PromotionEngine.Model
 {
-    class Cart
+    public class Cart
     {
         public Cart(List<ItemForCart> ItemsList)
         {
