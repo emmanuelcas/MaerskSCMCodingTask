@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Problem1_PromotionEngine.Model
 {
-    class Product
+    public class Product
     {
         public Product(string sKU, double price)
         {

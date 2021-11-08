@@ -4,13 +4,17 @@ using System.Text;
 
 namespace Problem1_PromotionEngine.Model
 {
-    public class ItemForCart : Product
+    public class ProductRule
     {
-        public ItemForCart(string sKU, double price, int cuantity) : base(sKU, price)
+        public ProductRule(string sKU, int cuantity)
         {
+            SKU = sKU;
             Cuantity = cuantity;
         }
 
+        public string SKU { get; set; }
+
         public int Cuantity { get; set; }
+
     }
 }
